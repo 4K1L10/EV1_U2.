@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|w:\\d3sc4rg4s\\mercy_developer_oficial-login\\mercdevs_ej2\\controllers\\recepcionequipoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\controllers\\recepcionequipoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|w:\\d3sc4rg4s\\mercy_developer_oficial-login\\mercdevs_ej2\\models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|w:\\d3sc4rg4s\\mercy_developer_oficial-login\\mercdevs_ej2\\views\\recepcionequipoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\views\\recepcionequipoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|w:\\d3sc4rg4s\\mercy_developer_oficial-login\\mercdevs_ej2\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|w:\\d3sc4rg4s\\mercy_developer_oficial-login\\mercdevs_ej2\\views\\recepcionequipoes\\serviciosdelcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\views\\recepcionequipoes\\serviciosdelcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|w:\\d3sc4rg4s\\mercy_developer_oficial-login\\mercdevs_ej2\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|w:\\d3sc4rg4s\\mercy_developer_oficial-login\\mercdevs_ej2\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|w:\\d3sc4rg4s\\mercy_developer_oficial-login\\mercdevs_ej2\\views\\recepcionequipoes\\bycliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\views\\recepcionequipoes\\bycliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|w:\\d3sc4rg4s\\mercy_developer_oficial-login\\mercdevs_ej2\\controllers\\descripcionservicios1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\controllers\\descripcionservicios1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|w:\\d3sc4rg4s\\mercy_developer_oficial-login\\mercdevs_ej2\\models\\recepcionequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\models\\recepcionequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|w:\\d3sc4rg4s\\mercy_developer_oficial-login\\mercdevs_ej2\\views\\servicios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\views\\servicios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|w:\\d3sc4rg4s\\mercy_developer_oficial-login\\mercdevs_ej2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|w:\\d3sc4rg4s\\mercy_developer_oficial-login\\mercdevs_ej2\\models\\mercydevsejercicio2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\models\\mercydevsejercicio2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|w:\\d3sc4rg4s\\mercy_developer_oficial-login\\mercdevs_ej2\\views\\descripcionservicios1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\views\\descripcionservicios1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|w:\\d3sc4rg4s\\mercy_developer_oficial-login\\mercdevs_ej2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|w:\\d3sc4rg4s\\mercy_developer_oficial-login\\mercdevs_ej2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|w:\\d3sc4rg4s\\mercy_developer_oficial-login\\mercdevs_ej2\\views\\servicios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\views\\servicios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|w:\\d3sc4rg4s\\mercy_developer_oficial-login\\mercdevs_ej2\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|w:\\d3sc4rg4s\\mercy_developer_oficial-login\\mercdevs_ej2\\models\\descripcionservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\models\\descripcionservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|w:\\d3sc4rg4s\\mercy_developer_oficial-login\\mercdevs_ej2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|w:\\d3sc4rg4s\\mercy_developer_oficial-login\\mercdevs_ej2\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Views\\Recepcionequipoes\\Details.cshtml",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Views\\Recepcionequipoes\\Details.cshtml",
+              "ToolTip": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Views\\Recepcionequipoes\\Details.cshtml",
+              "RelativeToolTip": "MercDevs_ej2\\Views\\Recepcionequipoes\\Details.cshtml",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAIMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T03:50:18.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiciosController.cs",
+              "DocumentMoniker": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Controllers\\ServiciosController.cs",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Controllers\\ServiciosController.cs",
+              "ToolTip": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Controllers\\ServiciosController.cs",
+              "RelativeToolTip": "MercDevs_ej2\\Controllers\\ServiciosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T03:49:18.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiciosDelCliente.cshtml",
+              "DocumentMoniker": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Views\\Recepcionequipoes\\ServiciosDelCliente.cshtml",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Views\\Recepcionequipoes\\ServiciosDelCliente.cshtml",
+              "ToolTip": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Views\\Recepcionequipoes\\ServiciosDelCliente.cshtml",
+              "RelativeToolTip": "MercDevs_ej2\\Views\\Recepcionequipoes\\ServiciosDelCliente.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T03:29:01.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ByCliente.cshtml",
+              "DocumentMoniker": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Views\\Recepcionequipoes\\ByCliente.cshtml",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Views\\Recepcionequipoes\\ByCliente.cshtml",
+              "ToolTip": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Views\\Recepcionequipoes\\ByCliente.cshtml",
+              "RelativeToolTip": "MercDevs_ej2\\Views\\Recepcionequipoes\\ByCliente.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T03:00:58.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MercDevs_ej2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAmwD0AAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T02:43:02.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Views\\Descripcionservicios1\\Index.cshtml",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Views\\Descripcionservicios1\\Index.cshtml",
+              "ToolTip": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Views\\Descripcionservicios1\\Index.cshtml",
+              "RelativeToolTip": "MercDevs_ej2\\Views\\Descripcionservicios1\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T02:41:46.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Descripcionservicios1Controller.cs",
+              "DocumentMoniker": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Controllers\\Descripcionservicios1Controller.cs",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Controllers\\Descripcionservicios1Controller.cs",
+              "ToolTip": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Controllers\\Descripcionservicios1Controller.cs",
+              "RelativeToolTip": "MercDevs_ej2\\Controllers\\Descripcionservicios1Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T02:40:04.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Program.cs",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Program.cs",
+              "ToolTip": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Program.cs",
+              "RelativeToolTip": "MercDevs_ej2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T02:21:53.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "MercDevs_ej2\\Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T01:50:00.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecepcionequipoesController.cs",
+              "DocumentMoniker": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Controllers\\RecepcionequipoesController.cs",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Controllers\\RecepcionequipoesController.cs",
+              "ToolTip": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Controllers\\RecepcionequipoesController.cs",
+              "RelativeToolTip": "MercDevs_ej2\\Controllers\\RecepcionequipoesController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAawFcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T01:45:36.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Views\\Servicios\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Views\\Servicios\\Delete.cshtml",
+              "ToolTip": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Views\\Servicios\\Delete.cshtml",
+              "RelativeToolTip": "MercDevs_ej2\\Views\\Servicios\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T01:41:03.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Views\\Servicios\\Index.cshtml",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Views\\Servicios\\Index.cshtml",
+              "ToolTip": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Views\\Servicios\\Index.cshtml",
+              "RelativeToolTip": "MercDevs_ej2\\Views\\Servicios\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T01:39:45.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Models\\ErrorViewModel.cs",
+              "ToolTip": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MercDevs_ej2\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T01:37:55.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Models\\Cliente.cs",
+              "ToolTip": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Models\\Cliente.cs",
+              "RelativeToolTip": "MercDevs_ej2\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T01:37:52.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Controllers\\ClientesController.cs",
+              "ToolTip": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "MercDevs_ej2\\Controllers\\ClientesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T01:37:44.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Controllers\\HomeController.cs",
+              "ToolTip": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MercDevs_ej2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T01:22:26.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Models\\Servicio.cs",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Models\\Servicio.cs",
+              "ToolTip": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Models\\Servicio.cs",
+              "RelativeToolTip": "MercDevs_ej2\\Models\\Servicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T01:35:39.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MercydevsEjercicio2Context.cs",
+              "DocumentMoniker": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Models\\MercydevsEjercicio2Context.cs",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Models\\MercydevsEjercicio2Context.cs",
+              "ToolTip": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Models\\MercydevsEjercicio2Context.cs",
+              "RelativeToolTip": "MercDevs_ej2\\Models\\MercydevsEjercicio2Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T01:30:41.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Views\\Clientes\\Index.cshtml",
+              "ToolTip": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "MercDevs_ej2\\Views\\Clientes\\Index.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAQwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T01:29:32.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Descripcionservicios.cs",
+              "DocumentMoniker": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Models\\Descripcionservicios.cs",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Models\\Descripcionservicios.cs",
+              "ToolTip": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Models\\Descripcionservicios.cs",
+              "RelativeToolTip": "MercDevs_ej2\\Models\\Descripcionservicios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T01:25:22.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Recepcionequipo.cs",
+              "DocumentMoniker": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Models\\Recepcionequipo.cs",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Models\\Recepcionequipo.cs",
+              "ToolTip": "W:\\D3SC4RG4S\\mercy_developer_oficial-login\\MercDevs_ej2\\Models\\Recepcionequipo.cs",
+              "RelativeToolTip": "MercDevs_ej2\\Models\\Recepcionequipo.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T01:25:17.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

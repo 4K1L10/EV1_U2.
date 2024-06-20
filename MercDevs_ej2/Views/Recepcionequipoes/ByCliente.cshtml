@@ -1,0 +1,38 @@
+﻿@model MercDevs_ej2.Models.Cliente
+
+@{
+    ViewData["Title"] = "Equipos Recepcionados del Cliente";
+}
+
+<h1>@Model.Nombre @Model.Apellido - Equipos Recepcionados</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Recepcionequipos.First().MarcaPc)</th>
+            <th>@Html.DisplayNameFor(model => model.Recepcionequipos.First().ModeloPc)</th>
+            <th>@Html.DisplayNameFor(model => model.Recepcionequipos.First().Nserie)</th>
+            <th>@Html.DisplayNameFor(model => model.Recepcionequipos.First().Fecha)</th>
+            <th>@Html.DisplayNameFor(model => model.Recepcionequipos.First().Accesorio)</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var equipo in Model.Recepcionequipos)
+        {
+            <tr>
+                <td>@equipo.MarcaPc</td>
+                <td>@equipo.ModeloPc</td>
+                <td>@equipo.Nserie</td>
+                <td>@equipo.Fecha?.ToString("yyyy-MM-dd")</td>
+                <td>@equipo.Accesorio</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@equipo.Id">Edit</a> 
+                    <a asp-action="Details" asp-route-id="@equipo.Id">Details</a> 
+                    <a asp-action="Delete" asp-route-id="@equipo.Id">Delete</a>
+                    <a asp-action="ServiciosDelCliente" asp-route-idCliente="@Model.IdCliente">Ver Servicios del Cliente</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
